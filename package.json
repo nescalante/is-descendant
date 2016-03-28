@@ -1,0 +1,24 @@
+{
+  "name": "is-descendant",
+  "version": "0.0.1",
+  "description": "Checks if an element is descendant of another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "descendant",
+    "element",
+    "html"
+  ],
+  "author": "Nicolas Escalante <nlante@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescalante/is-descendant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nescalante/is-descendant/issues"
+  },
+  "homepage": "https://github.com/nescalante/is-descendant#readme"
+}
