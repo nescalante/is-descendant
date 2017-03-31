@@ -1,5 +1,7 @@
 # is-descendant
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/is-descendant.svg)](https://greenkeeper.io/)
+
 > Checks if an HTML element is descendant of another
 
 ## Install
